@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vikramadity</h1>
-<h3 align="center">A passionate Salesforce Developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
 
 <img src="https://tenor.com/en-IN/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" alt="img" >
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Weather Information**
 
-- 🌱 I’m currently learning **LWC , Aura**
+- 🌱 I’m currently learning **HTML,CSS,Node.js,React.js**
 
 - 👯 I’m looking to collaborate on **web Devlopment**
 
-- 💬 Ask me about **Salesforce, Database , Javascript**
+- 💬 Ask me about **Node.js, PHP, Database , Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
